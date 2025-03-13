@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile crop.png"
   name             : "Jinxuan Zhu"
   pronouns         : # example: "she/her"  
   employer         : "HITSZ"
-  uri              : # URL
+  uri              : https://nolann030628.github.io # URL
   email            : "nolanzhu&#64;hitsz&#46;com"
 
   # Academic websites
