@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "     Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,11 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Jinxuan Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
   employer         : "HITSZ"
   uri              : # URL
-  email            : "nolanzhuhitsz@gmail.com" 
+  email            : "&#110;&#111;&#108;&#97;&#110;&#122;&#104;&#117;&#64;&#104;&#105;&#116;&#115;&#122;&#46;&#99;&#111;&#109;"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
