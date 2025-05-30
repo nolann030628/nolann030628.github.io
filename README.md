@@ -1,1 +1,1 @@
-This is the source code to Jingxiang Guo's academic website: https://borisguo6.github.io/. Website template borrowed from https://jonbarron.info/ and https://zhenyuwei2003.github.io/.
+This is the source code to jinxuan's academic website: https://nolann030628.github.io/. Website template borrowed from https://jonbarron.info/, https://zhenyuwei2003.github.io/ and https://borisguo6.github.io/.
