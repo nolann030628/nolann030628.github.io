@@ -78,16 +78,19 @@ h3 {
   font-weight: 800;
 } */
 .author {
-  font-family: 'Source Serif Pro', 'Georgia', serif;
-  font-size: 14px;
-  font-style: normal;
+  font-family: 'Inter', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-style: normal !important;
+  font-weight: 400;
+  color: #333;
 }
 
 .strong-author {
-  font-family: 'Source Serif Pro', 'Georgia', serif;
-  font-size: 14px;
+  font-family: 'Inter', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  font-style: normal !important;
   font-weight: 800;
-  font-style: normal;
+  color: #000;
 }
 /* 论文标题样式 */
 .papertitle {
